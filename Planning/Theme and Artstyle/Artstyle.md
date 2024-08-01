@@ -1,0 +1,2 @@
+![[Wizard of Legend.jpg]]
+
