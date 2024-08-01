@@ -7,3 +7,10 @@
 - Hitboxes
 - Hurtboxes
 - Level Design (Procedural generation/custom maps)
+
+
+# Settings
+
+Square Size in Pixels:
+
+160px x 160px
