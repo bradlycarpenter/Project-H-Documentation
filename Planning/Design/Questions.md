@@ -8,3 +8,6 @@ Procedural generated or custom made maps?
 Server-based or peer-to-peer
 # Multiplayer
 Team Size? Game modes of solo, duos, trios?
+
+# Weapons
+Guns?
