@@ -14,7 +14,6 @@
 Square Size in Pixels:
 
 160px x 160px
-
 # Code Refactors:
 
 ## Movement:
