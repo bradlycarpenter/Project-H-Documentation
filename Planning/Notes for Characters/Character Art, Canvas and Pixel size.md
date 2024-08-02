@@ -24,3 +24,5 @@ All the game really cares about is if everything is in scale relative to each ot
 Canvas size isn't a square anymore for this asset.
 ![[Bigger Assets.png]]
 Some canvas sizes can be bigger than the screen.
+
+![[Cheat Sheet Resolution Size.png]]
