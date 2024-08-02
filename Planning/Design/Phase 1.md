@@ -8,7 +8,7 @@
 - Hurtboxes
 - Level Design (Procedural generation/custom maps)
 
-
+[[Phase 1 Changelog]]
 # Settings
 
 Square Size in Pixels:
