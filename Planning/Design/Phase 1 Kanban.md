@@ -15,7 +15,7 @@ kanban-plugin: board
 
 - [ ] Art: New Character Movement Frames
 	
-	Assigned Berti
+	Assigned: Berti
 
 
 ## Review
