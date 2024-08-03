@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] Org: Cleanup Files, Filenames and Folders
 - [ ] Pro: Attack Logic
 - [ ] Snd: Player Attack
+- [ ] Error: When enemy catches player, animation spasms
 
 
 ## In-progress
