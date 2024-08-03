@@ -8,8 +8,8 @@ kanban-plugin: board
 
 - [ ] Art: Character Attack Frames
 - [ ] Org: Cleanup Files, Filenames and Folders
+- [ ] Snd: Player Movement and Attack
 - [ ] Pro: Attack Logic
-- [ ] Sou: Player Movement and Attack
 
 
 ## In-progress
