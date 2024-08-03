@@ -1,4 +1,4 @@
-Canvas size of entire game would be 1920x1080
+![[Pasted image 20240802230458.png]]Canvas size of entire game would be 1920x1080
 
 When it comes to the spritesheet, Character is smaller than the size of each block to allow room for animations.
 
