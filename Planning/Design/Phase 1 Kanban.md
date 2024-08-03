@@ -8,8 +8,8 @@ kanban-plugin: board
 
 - [ ] Art: Character Attack Frames
 - [ ] Org: Cleanup Files, Filenames and Folders
-- [ ] Snd: Player Movement and Attack
 - [ ] Pro: Attack Logic
+- [ ] Snd: Player Attack
 
 
 ## In-progress
@@ -17,6 +17,9 @@ kanban-plugin: board
 - [ ] Art: New Character Movement Frames
 	
 	Assigned: Berti
+- [ ] Snd: Player Movement
+	
+	Assigned: Brad
 
 
 ## Review
