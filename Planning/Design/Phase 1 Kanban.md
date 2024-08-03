@@ -7,8 +7,9 @@ kanban-plugin: board
 ## To-do
 
 - [ ] Art: Character Attack Frames
-- [ ] Cleanup Files, Filenames and Folders
+- [ ] Org: Cleanup Files, Filenames and Folders
 - [ ] Pro: Attack Logic
+- [ ] Sou: Player Movement and Attack
 
 
 ## In-progress
