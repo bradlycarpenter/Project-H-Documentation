@@ -21,14 +21,14 @@ kanban-plugin: board
 
 ## Review
 
-- [ ] Pro: Enemy Movement
-	
-	Assigned: Noots
 
 
 ## Done
 
 - [ ] Pro: Player Movement
+- [ ] Pro: Enemy Movement
+	
+	Assigned: Noots
 
 
 
