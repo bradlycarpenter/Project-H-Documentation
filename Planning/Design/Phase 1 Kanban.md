@@ -10,8 +10,6 @@ kanban-plugin: board
 - [ ] Pro: Attack Logic
 - [ ] Snd: Player Attack
 - [ ] Error: When enemy catches player, animation spasms
-- [ ] Implement New Character Model
-- [ ] Implement New Attack Animations
 
 
 ## In-progress
@@ -19,6 +17,10 @@ kanban-plugin: board
 - [ ] Snd: Player Movement
 	
 	Assigned: Brad
+- [ ] Implement New Character Model
+	Assigned: Noots
+- [ ] Implement New Attack Animations
+	Assigned: Noots
 
 
 ## Review
