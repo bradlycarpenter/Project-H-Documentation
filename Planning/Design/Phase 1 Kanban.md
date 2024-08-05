@@ -6,18 +6,16 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Art: Character Attack Frames
 - [ ] Org: Cleanup Files, Filenames and Folders
 - [ ] Pro: Attack Logic
 - [ ] Snd: Player Attack
 - [ ] Error: When enemy catches player, animation spasms
+- [ ] Implement New Character Model
+- [ ] Implement New Attack Animations
 
 
 ## In-progress
 
-- [ ] Art: New Character Movement Frames
-	
-	Assigned: Berti
 - [ ] Snd: Player Movement
 	
 	Assigned: Brad
@@ -29,6 +27,10 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Art: Character Attack Frames
+- [ ] Art: New Character Movement Frames
+	
+	Assigned: Berti
 - [ ] Pro: Player Movement
 - [ ] Pro: Enemy Movement
 	
