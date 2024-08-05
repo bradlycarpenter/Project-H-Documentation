@@ -1,3 +1,5 @@
-- Isometric
+- 45 Deg
 - 2D Sprites 
 - Minimal Animations
+- Multiple Weapons
+- 

@@ -2,11 +2,48 @@
 - 2D Sprites
 - Minimal Animation Frames
 - Figure out game logic
-- Multiplayer? (Hosted on server preferably, but look into p2p)
+- Multiplayer 2player controllers
 - Importing Assets
 - Hitboxes
 - Hurtboxes
-- Level Design (Procedural generation/custom maps)
+
+# Tasks to complete phase 1:
+
+`[]` Menu
+	 - Start
+	 - Player Select (1/2)
+	 - Sound Settings
+	 - Show Controls
+`[]` 2 Player
+`[]` 1 Level
+	- 3 Enemy Encounters (Ranged)
+	- Collect Disappearing Coins
+	- Don't Step On Areas (Fire)
+	- Chest At The End
+	- Exit
+	- Camera Follows Player (1P/2P)
+`[]` Sound\
+	 - Attack SFX
+	 - Movement
+	 - Damage Taken
+	 - Victory
+	 - Coin Picked Up
+	 - Music
+	 - Enemy Sound
+`[]` Style Guide Doc
+	- File Naming
+	- Scene Naming
+	- Node Naming
+`[]` Environment
+	- Add Lava Tile
+`[]` Art
+	- Idle Frames (Player & Enemies)
+	- Take Damage Frames (Player & Enemies)
+	- Death Animation (Player & Enemy)
+	- White when Hit
+	- Removing Top and Down
+	- Coin
+	- Chest
 
 [[Phase 1 Changelog]]
 # Settings
