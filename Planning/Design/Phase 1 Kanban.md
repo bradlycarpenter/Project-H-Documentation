@@ -18,13 +18,10 @@ kanban-plugin: board
 - [ ] Art: Idle Frames
 - [ ] Art: Death Anim
 - [ ] Art: Fireball
-- [ ] Pro: White Flash On Damage
 - [ ] Pro: Pause Menu
 - [ ] Pro: Victory Menu
 - [ ] Pro: AI Behaviour
-- [ ] Pro: Coin Counter
 - [ ] Pro: Remove Top Down
-- [ ] Pro: 2 Player (Local) Controller
 - [ ] Pro: Projectile Logic
 
 
@@ -43,18 +40,32 @@ kanban-plugin: board
 
 ## Chubbs
 
+- [ ] Dbg: When enemy catches player, animation spasms
 - [ ] Pro: Design Level
 - [ ] Pro:  Start Menu
 
 
 ## Noots
 
-- [ ] Dbg: When enemy catches player, animation spasms
-- [ ] Snd: Player Attack
+- [ ] Implement New Attack Animations
+	Assigned: Noots
+- [ ] Pro: White Flash On Damage
+- [ ] Pro: 2 Player (Local) Controller
+- [ ] Pro: Coin Counter
 
 
 ## Review
 
+- [ ] Art: Character Attack Frames
+- [ ] Pro: Enemy Movement
+	
+	Assigned: Noots
+- [ ] Pro: Attack Logic
+- [ ] Art: New Character Movement Frames
+	
+	Assigned: Berti
+- [ ] Implement New Character Model
+	Assigned: Noots
 
 
 ## Done
