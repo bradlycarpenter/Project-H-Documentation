@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Snd: Player Attack
 - [ ] Snd: Menu Sounds
 - [ ] Snd: Death Sound
 - [ ] Snd: Coin
@@ -40,8 +39,6 @@ kanban-plugin: board
 
 ## Brad
 
-- [ ] Org: Cleanup Files, Filenames and Folders
-- [ ] Snd: Player Movement
 
 
 ## Chubbs
@@ -53,27 +50,30 @@ kanban-plugin: board
 ## Noots
 
 - [ ] Dbg: When enemy catches player, animation spasms
+- [ ] Snd: Player Attack
 
 
 ## Review
 
-- [ ] Art: Character Attack Frames
-- [ ] Pro: Enemy Movement
-	
-	Assigned: Noots
-- [ ] Pro: Attack Logic
-- [ ] Implement New Attack Animations
-	Assigned: Noots
-- [ ] Art: New Character Movement Frames
-	
-	Assigned: Berti
-- [ ] Implement New Character Model
-	Assigned: Noots
 
 
 ## Done
 
+- [ ] Implement New Character Model
+	Assigned: Noots
+- [ ] Art: New Character Movement Frames
+	
+	Assigned: Berti
+- [ ] Implement New Attack Animations
+	Assigned: Noots
+- [ ] Art: Character Attack Frames
 - [ ] Pro: Player Movement
+- [ ] Pro: Attack Logic
+- [ ] Pro: Enemy Movement
+	
+	Assigned: Noots
+- [ ] Snd: Player Movement
+- [ ] Org: Cleanup Files, Filenames and Folders
 
 
 ***
