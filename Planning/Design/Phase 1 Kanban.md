@@ -19,13 +19,11 @@ kanban-plugin: board
 - [ ] Art: Idle Frames
 - [ ] Art: Death Anim
 - [ ] Art: Fireball
-- [ ] Pro: White Flash On Damage
 - [ ] Pro: Pause Menu
 - [ ] Pro: Victory Menu
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Coin Counter
 - [ ] Pro: Remove Top Down
-- [ ] Pro: 2 Player (Local) Controller
 - [ ] Pro: Projectile Logic
 
 
@@ -46,13 +44,15 @@ kanban-plugin: board
 
 ## Chubbs
 
+- [ ] Dbg: When enemy catches player, animation spasms
 - [ ] Pro: Design Level
 - [ ] Pro:  Start Menu
 
 
 ## Noots
 
-- [ ] Dbg: When enemy catches player, animation spasms
+- [ ] Pro: White Flash On Damage
+- [ ] Pro: 2 Player (Local) Controller
 
 
 ## Review
