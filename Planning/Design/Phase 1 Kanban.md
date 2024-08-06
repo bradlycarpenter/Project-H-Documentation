@@ -19,9 +19,7 @@ kanban-plugin: board
 - [ ] Art: Idle Frames
 - [ ] Art: Death Anim
 - [ ] Art: Fireball
-- [ ] Pro: Design Level
 - [ ] Pro: White Flash On Damage
-- [ ] Pro:  Start Menu
 - [ ] Pro: Pause Menu
 - [ ] Pro: Victory Menu
 - [ ] Pro: AI Behaviour
@@ -48,6 +46,8 @@ kanban-plugin: board
 
 ## Chubbs
 
+- [ ] Pro: Design Level
+- [ ] Pro:  Start Menu
 
 
 ## Noots
