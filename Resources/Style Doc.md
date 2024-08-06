@@ -15,9 +15,9 @@ class_name YAMLParser
 extends Object
 ```
 
-# Classes and nodes
+# Classses
 
-Use PascalCase for class and node names:
+Use PascalCase for class names:
 ```
 extends CharacterBody3D
 ```
@@ -27,6 +27,7 @@ Also use PascalCase when loading a class into a constant or a variable:
 const Weapon = preload("res://weapon.gd")
 ```
 
+This is the only instance where caps is used. For everything else it is lower case.
 # Functions and variables[¶](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html#functions-and-variables "Permalink to this headline")
 
 Use snake_case to name functions and variables:
