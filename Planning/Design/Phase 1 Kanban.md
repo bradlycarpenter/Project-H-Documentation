@@ -13,10 +13,6 @@ kanban-plugin: board
 - [ ] Snd: Victory
 - [ ] Snd: Music
 - [ ] Art: Lava Tile
-- [ ] Art: Coin
-- [ ] Art: Chest
-- [ ] Art: Idle Frames
-- [ ] Art: Death Anim
 - [ ] Art: Fireball
 - [ ] Pro: Pause Menu
 - [ ] Pro: Victory Menu
@@ -32,6 +28,8 @@ kanban-plugin: board
 
 ## Berti
 
+- [ ] Art: Coin
+- [ ] Art: Chest
 
 
 ## Brad
@@ -43,6 +41,8 @@ kanban-plugin: board
 - [ ] Dbg: When enemy catches player, animation spasms
 - [ ] Pro: Design Level
 - [ ] Pro:  Start Menu
+- [ ] Art: Death Anim
+- [ ] Art: Idle Frames
 
 
 ## Noots
