@@ -22,7 +22,6 @@ kanban-plugin: board
 - [ ] Pro: Pause Menu
 - [ ] Pro: Victory Menu
 - [ ] Pro: AI Behaviour
-- [ ] Pro: Coin Counter
 - [ ] Pro: Remove Top Down
 - [ ] Pro: Projectile Logic
 
@@ -51,8 +50,11 @@ kanban-plugin: board
 
 ## Noots
 
+- [ ] Implement New Attack Animations
+	Assigned: Noots
 - [ ] Pro: White Flash On Damage
 - [ ] Pro: 2 Player (Local) Controller
+- [ ] Pro: Coin Counter
 
 
 ## Review
@@ -62,8 +64,6 @@ kanban-plugin: board
 	
 	Assigned: Noots
 - [ ] Pro: Attack Logic
-- [ ] Implement New Attack Animations
-	Assigned: Noots
 - [ ] Art: New Character Movement Frames
 	
 	Assigned: Berti
