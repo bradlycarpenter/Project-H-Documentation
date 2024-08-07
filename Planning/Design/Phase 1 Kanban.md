@@ -19,6 +19,9 @@ kanban-plugin: board
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Remove Top Down
 - [ ] Pro: Projectile Logic
+- [ ] Pro: Idle Frames
+- [ ] Pro: Death Anim
+- [ ] Pro: Coin
 
 
 ## Minci
@@ -28,7 +31,6 @@ kanban-plugin: board
 
 ## Berti
 
-- [ ] Art: Coin
 - [ ] Art: Chest
 
 
@@ -41,8 +43,6 @@ kanban-plugin: board
 - [ ] Dbg: When enemy catches player, animation spasms
 - [ ] Pro: Design Level
 - [ ] Pro:  Start Menu
-- [ ] Art: Death Anim
-- [ ] Art: Idle Frames
 
 
 ## Noots
