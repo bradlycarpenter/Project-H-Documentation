@@ -13,12 +13,12 @@
 | pup_   | PopupMenu          | _m     |
 | pup_   | PopupPanel         | _p     |
 | vwp_   | SubViewPort        | _s     |
+| cnv_   | CanvasItem         | _I     |
 
 ### Node 2D:
 
 | Prefix | Description               | Suffix |
 | ------ | ------------------------- | ------ |
-| cnv_   | CanvasItem                | _I     |
 | nod_   | Node2D                    | _2     |
 | cob_   | CollisionObject2D         | _2     |
 | pbd_   | PhysicsBody2D             | _2     |
