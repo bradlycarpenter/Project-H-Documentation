@@ -19,6 +19,7 @@ kanban-plugin: board
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Remove Top Down
 - [ ] Pro: Projectile Logic
+- [ ] Pro: Stop Camera from Viewing Out of Bounds
 
 
 ## Minci
@@ -56,20 +57,20 @@ kanban-plugin: board
 
 ## Review
 
-- [ ] Art: Character Attack Frames
-- [ ] Pro: Enemy Movement
-	
-	Assigned: Noots
-- [ ] Pro: Attack Logic
-- [ ] Art: New Character Movement Frames
-	
-	Assigned: Berti
-- [ ] Implement New Character Model
-	Assigned: Noots
 
 
 ## Done
 
+- [ ] Implement New Character Model
+	Assigned: Noots
+- [ ] Art: New Character Movement Frames
+	
+	Assigned: Berti
+- [ ] Pro: Attack Logic
+- [ ] Pro: Enemy Movement
+	
+	Assigned: Noots
+- [ ] Art: Character Attack Frames
 - [ ] Implement New Character Model
 	Assigned: Noots
 - [ ] Art: New Character Movement Frames
