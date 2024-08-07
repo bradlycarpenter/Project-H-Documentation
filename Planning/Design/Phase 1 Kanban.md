@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Pro: Idle Frames
 - [ ] Pro: Death Anim
 - [ ] Pro: Coin
+- [ ] Pro: Coin Counter
 - [ ] Pro: Chest
 - [ ] Pro: Fireball
 
@@ -49,13 +50,12 @@ kanban-plugin: board
 
 - [ ] Implement New Attack Animations
 	Assigned: Noots
-- [ ] Pro: White Flash On Damage
 - [ ] Pro: 2 Player (Local) Controller
-- [ ] Pro: Coin Counter
 
 
 ## Review
 
+- [ ] Pro: White Flash On Damage
 
 
 ## Done
