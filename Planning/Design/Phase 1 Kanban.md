@@ -12,8 +12,6 @@ kanban-plugin: board
 - [ ] Snd: Chest
 - [ ] Snd: Victory
 - [ ] Snd: Music
-- [ ] Art: Lava Tile
-- [ ] Art: Fireball
 - [ ] Pro: Pause Menu
 - [ ] Pro: Victory Menu
 - [ ] Pro: AI Behaviour
@@ -22,6 +20,8 @@ kanban-plugin: board
 - [ ] Pro: Idle Frames
 - [ ] Pro: Death Anim
 - [ ] Pro: Coin
+- [ ] Pro: Chest
+- [ ] Pro: Fireball
 
 
 ## Minci
@@ -31,7 +31,7 @@ kanban-plugin: board
 
 ## Berti
 
-- [ ] Art: Chest
+- [ ] Art: Lava Tile
 
 
 ## Brad
