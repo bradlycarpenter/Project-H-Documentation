@@ -22,6 +22,8 @@ kanban-plugin: board
 - [ ] Pro: Coin Counter
 - [ ] Pro: Chest
 - [ ] Pro: Fireball
+- [ ] Pro: Settings Menu
+- [ ] Pro: Controls Menu
 
 
 ## Minci
@@ -54,15 +56,13 @@ kanban-plugin: board
 
 ## Review
 
-- [ ] Pro: White Flash On Damage
-- [ ] Pro:  Start Menu
-- [ ] Pro: Settings Menu
-- [ ] Pro: Controls Menu
-- [ ] Pro: Sound Menu
 
 
 ## Done
 
+- [ ] Pro: Sound Menu
+- [ ] Pro:  Start Menu
+- [ ] Pro: White Flash On Damage
 - [ ] Implement New Character Model
 	Assigned: Noots
 - [ ] Art: New Character Movement Frames
