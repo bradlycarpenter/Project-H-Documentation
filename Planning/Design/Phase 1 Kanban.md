@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] Snd: Chest
 - [ ] Snd: Victory
 - [ ] Snd: Music
-- [ ] Pro: Pause Menu
 - [ ] Pro: Victory Menu
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Remove Top Down
@@ -43,7 +42,7 @@ kanban-plugin: board
 
 - [ ] Dbg: When enemy catches player, animation spasms
 - [ ] Pro: Design Level
-- [ ] Pro:  Start Menu
+- [ ] Pro: Pause Menu
 
 
 ## Noots
@@ -56,6 +55,10 @@ kanban-plugin: board
 ## Review
 
 - [ ] Pro: White Flash On Damage
+- [ ] Pro:  Start Menu
+- [ ] Pro: Settings Menu
+- [ ] Pro: Controls Menu
+- [ ] Pro: Sound Menu
 
 
 ## Done
