@@ -49,9 +49,6 @@ kanban-plugin: board
 
 ## Noots
 
-- [ ] Implement New Attack Animations
-	Assigned: Noots
-- [ ] Pro: 2 Player (Local) Controller
 
 
 ## Review
