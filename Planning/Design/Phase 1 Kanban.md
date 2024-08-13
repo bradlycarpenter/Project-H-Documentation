@@ -18,8 +18,6 @@ kanban-plugin: board
 - [ ] Pro: Projectile Logic
 - [ ] Pro: Idle Frames
 - [ ] Pro: Death Anim
-- [ ] Pro: Coin
-- [ ] Pro: Coin Counter
 - [ ] Pro: Chest
 - [ ] Pro: Fireball
 - [ ] Pro: Settings Menu
@@ -49,6 +47,8 @@ kanban-plugin: board
 
 ## Noots
 
+- [ ] Pro: Coin
+- [ ] Pro: Coin Counter
 
 
 ## Review
