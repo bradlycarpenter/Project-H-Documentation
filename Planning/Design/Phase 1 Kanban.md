@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Snd: Menu Sounds
-- [ ] Snd: Death Sound
-- [ ] Snd: Coin
-- [ ] Snd: Chest
 - [ ] Snd: Victory
 - [ ] Snd: Music
 - [ ] Pro: Victory Menu
@@ -24,6 +20,10 @@ kanban-plugin: board
 - [ ] Pro: Fireball
 - [ ] Pro: Settings Menu
 - [ ] Pro: Controls Menu
+- [ ] Pro: Death Sound
+- [ ] Pro: Menu Sound
+- [ ] Pro: Coin Sound
+- [ ] Pro: Chest Sound
 
 
 ## Minci
@@ -53,6 +53,10 @@ kanban-plugin: board
 
 ## Review
 
+- [ ] Snd: Death Sound
+- [ ] Snd: Menu Sounds
+- [ ] Snd: Coin
+- [ ] Snd: Chest
 
 
 ## Done
