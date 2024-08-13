@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] Pro: Menu Sound
 - [ ] Pro: Coin Sound
 - [ ] Pro: Chest Sound
+- [ ] Art: Model Shadows
 
 
 ## Minci
