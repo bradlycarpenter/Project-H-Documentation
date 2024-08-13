@@ -100,3 +100,5 @@ func _physics_process(_delta):
 The big deal here is that `Input.getvector()` returns a vector where standing still is {0,0}, moving up would be {0,-1} and moving left or right would be {1,0} or {-1,0} etc you get the point. Adjusting position which is a 2 dimensional vector with this vector multiplied by `delta` is easy and it's easy to influence the direction of the sprites by checking if the X or Y values of `Vector2` is 0 or not. 
 
 `_sprightDirecion` checks the X direction and flips the sprite horizontally if it has not already been flipped. It's important to check if it has or hasn't been flipped to avoid flipping unnecessarily.
+
+Test
