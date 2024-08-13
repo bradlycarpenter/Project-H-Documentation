@@ -7,7 +7,6 @@ kanban-plugin: board
 ## To-do
 
 - [ ] Snd: Victory
-- [ ] Snd: Music
 - [ ] Pro: Victory Menu
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Remove Top Down
@@ -32,6 +31,7 @@ kanban-plugin: board
 
 ## Berti
 
+- [ ] Snd: Music Score
 - [ ] Art: Lava Tile
 
 
