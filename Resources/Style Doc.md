@@ -155,6 +155,5 @@ This code order follows four rules of thumb:
 ## Formatting
 
 Use the editor default settings.
-
-
 https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html
+
