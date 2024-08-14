@@ -21,7 +21,8 @@ kanban-plugin: board
 - [ ] Pro: Menu Sound
 - [ ] Pro: Coin Sound
 - [ ] Pro: Chest Sound
-- [ ] Art: Model Shadows
+- [ ] Pro: Lava Tile
+- [ ] Update: Model Shadows
 
 
 ## Minci
@@ -32,7 +33,6 @@ kanban-plugin: board
 ## Berti
 
 - [ ] Snd: Music Score
-- [ ] Art: Lava Tile
 
 
 ## Brad
