@@ -23,6 +23,8 @@ kanban-plugin: board
 - [ ] Pro: Chest Sound
 - [ ] Pro: Lava Tile
 - [ ] Update: Model Shadows
+- [ ] Pro: Door
+- [ ] Update: Enemy 1+ 2 w/Shadows
 
 
 ## Minci
