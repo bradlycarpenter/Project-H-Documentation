@@ -1,19 +1,35 @@
 
 ### Node: 
 
-| Prefix | Description        | Suffix |
-| ------ | ------------------ | ------ |
-| nod_   | Node               |        |
-| vwp_   | ViewPort           |        |
-| win_   | Window             |        |
-| dia_   | AcceptDialog       | _a     |
-| dia_   | ConfirmationDialog | _c     |
-| dia_   | FileDialog         | _f     |
-| pup_   | Popup              |        |
-| pup_   | PopupMenu          | _m     |
-| pup_   | PopupPanel         | _p     |
-| vwp_   | SubViewPort        | _s     |
-| cnv_   | CanvasItem         | _I     |
+| Prefix | Description             | Suffix |
+| ------ | ----------------------- | ------ |
+| nod_   | Node                    |        |
+| vwp_   | ViewPort                |        |
+| win_   | Window                  |        |
+| dia_   | AcceptDialog            | _a     |
+| dia_   | ConfirmationDialog      | _c     |
+| dia_   | FileDialog              | _f     |
+| pup_   | Popup                   |        |
+| pup_   | PopupMenu               | _m     |
+| pup_   | PopupPanel              | _p     |
+| vwp_   | SubViewPort             | _s     |
+| cnv_   | CanvasItem              | _I     |
+| ani_   | AnimationMixer          | _m     |
+| ani_   | AnimationPlayer         | _p     |
+| ani_   | AnimationTree           | _t     |
+| asp_   | AudioStreamPlayer       |        |
+| cnv_   | CanvasLayer             | _l     |
+| pbg_   | ParallaxBackground      |        |
+| hrq_   | HTTPRequest             |        |
+| msp_   | MultiplayerSpawner      |        |
+| msy_   | MultiplayerSynchronizer |        |
+| nva_   | NavigationAgent2D       | _2     |
+| nva_   | NavigationAgent3D       | _3     |
+| rpr_   | ResourcePreloader       |        |
+| sgo_   | ShaderGlobalsOverride   |        |
+| skl_   | SkeletonIK3D            | _i     |
+| tim_   | Timer                   |        |
+| wen_   | WorldEnvironment        |        |
 
 ### Node 2D:
 
@@ -99,7 +115,7 @@
 | csg_   | CSGTorus3D                         | _t     |
 | csg_   | CSGCombiner3D                      | _j     |
 | gpp_   | GPUParticles3D                     | _3     |
-| lab_   | Label3D                            |        |
+| lab_   | Label3D                            | _3     |
 | mi_    | MeshInstance3D                     | _3     |
 | sft_   | SoftBody3D                         |        |
 | mmi_   | MultiMeshInstance3D                | _3     |
@@ -161,6 +177,65 @@
 
 ### Control:
 
-| Prefix | Description | Suffix |
-| ------ | ----------- | ------ |
-|        |             |        |
+| Prefix | Description          | Suffix |
+| ------ | -------------------- | ------ |
+| ctr_   | Control              |        |
+| ctn_   | Container            |        |
+| ctn_   | AspectRatioContainer | _ar    |
+| ctn_   | BoxContainer         | _b     |
+| ctn_   | VBoxContainer        | _vb    |
+| col_   | ColorPicker          |        |
+| ctn_   | HBoxContainer        | _hb    |
+| ctn_   | CenterContainer      | _c     |
+| ctn_   | FlowContainer        | _f     |
+| ctn_   | HFlowContainer       | _hf    |
+| ctn_   | VFlowContainer       | _vf    |
+| gel_   | GraphElement         |        |
+| gno_   | GraphNode            |        |
+| ctn_   | GridContainer        | _g     |
+| ctn_   | SplitContainer       | _sp    |
+| ctn_   | HSplitContainer      | _hs    |
+| ctn_   | VSplitContainer      | _vs    |
+| ctn_   | MarginContainer      | _m     |
+| ctn_   | PanelContainer       | _p     |
+| ctn_   | ScrollContainer      | _s     |
+| ctn_   | SubViewportContainer | _sv    |
+| ctn_   | TabContainer         | _t     |
+| btn_   | BaseButton           | _b     |
+| btn_   | Button               |        |
+| chb_   | CheckBox             |        |
+| btn_   | CheckButton          | _ch    |
+| btn_   | ColorPickerButton    | _cp    |
+| btn_   | MenuButton           | _m     |
+| btn_   | OptionButton         | _o     |
+| btn_   | LinkButton           | _l     |
+| btn_   | TextureButton        | _t     |
+| ted_   | TextEdit             |        |
+| ced_   | CodeEdit             |        |
+| cre_   | ColorRect            |        |
+| ged_   | GraphEdit            |        |
+| rng_   | Range                |        |
+| scr_   | ScrollBar            |        |
+| scr_   | HScrollBar           | _h     |
+| scr_   | VScrollBar           | _v     |
+| sld_   | Slider               |        |
+| sld_   | HSlider              | _h     |
+| sld_   | VSlider              | _v     |
+| prg_   | ProgressBar          |        |
+| spn_   | SpinBox              |        |
+| prg_   | TextureProgressBar   | _t     |
+| sep_   | Separator            |        |
+| sep_   | HSeparator           | _h     |
+| sep_   | VSeparator           | _v     |
+| lst_   | ItemList             |        |
+| lbl_   | Label                |        |
+| led_   | LineEdit             |        |
+| mnb_   | MenuBar              |        |
+| npr_   | NinePatchRect        |        |
+| pnl_   | Panel                |        |
+| rfr_   | ReferenceRect        |        |
+| rtl_   | RichTextLabel        |        |
+| tbb_   | TabBar               |        |
+| txr_   | TextureRect          |        |
+| tre_   | Tree                 |        |
+| vsp_   | VideoStreamPlayer    |        |
