@@ -1,4 +1,3 @@
-
 Hadez Style Dark and Darker inspired extraction action game.
 
 PvPvE

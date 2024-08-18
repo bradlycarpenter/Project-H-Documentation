@@ -2,4 +2,4 @@
 - 2D Sprites 
 - Minimal Animations
 - Multiple Weapons
-- 
+- Network

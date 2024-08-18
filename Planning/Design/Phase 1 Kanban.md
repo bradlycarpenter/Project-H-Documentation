@@ -11,9 +11,9 @@ kanban-plugin: board
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Remove Top Down
 - [ ] Pro: Projectile Logic
-- [ ] Pro: Idle Frames
 - [ ] Pro: Death Anim
 - [ ] Pro: Chest
+- [ ] Pro: Idle Frames
 - [ ] Pro: Fireball
 - [ ] Pro: Settings Menu
 - [ ] Pro: Controls Menu
@@ -22,8 +22,8 @@ kanban-plugin: board
 - [ ] Pro: Coin Sound
 - [ ] Pro: Chest Sound
 - [ ] Pro: Lava Tile
-- [ ] Update: Model Shadows
 - [ ] Pro: Door
+- [ ] Update: Model Shadows
 - [ ] Update: Enemy 1+ 2 w/Shadows
 
 
