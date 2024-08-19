@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] Pro: Death Sound
 - [ ] Pro: Menu Sound
 - [ ] Pro: Coin Sound
-- [ ] Pro: Chest Sound
 - [ ] Pro: Design Level
 - [ ] Pro: Lava Tile
 - [ ] Pro: Door
@@ -37,6 +36,7 @@ kanban-plugin: board
 ## Brad
 
 - [ ] Pro: Chest
+- [ ] Pro: Chest Sound
 
 
 ## Chubbs
