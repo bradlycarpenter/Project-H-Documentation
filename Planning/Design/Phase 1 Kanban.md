@@ -11,7 +11,6 @@ kanban-plugin: board
 - [ ] Pro: Remove Top Down
 - [ ] Pro: Projectile Logic
 - [ ] Pro: Death Anim
-- [ ] Pro: Chest
 - [ ] Pro: Idle Frames
 - [ ] Pro: Fireball
 - [ ] Pro: Death Sound
@@ -37,6 +36,7 @@ kanban-plugin: board
 
 ## Brad
 
+- [ ] Pro: Chest
 
 
 ## Chubbs
