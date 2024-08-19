@@ -7,7 +7,6 @@ kanban-plugin: board
 ## To-do
 
 - [ ] Snd: Victory
-- [ ] Pro: Victory Menu
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Remove Top Down
 - [ ] Pro: Projectile Logic
@@ -15,12 +14,11 @@ kanban-plugin: board
 - [ ] Pro: Chest
 - [ ] Pro: Idle Frames
 - [ ] Pro: Fireball
-- [ ] Pro: Settings Menu
-- [ ] Pro: Controls Menu
 - [ ] Pro: Death Sound
 - [ ] Pro: Menu Sound
 - [ ] Pro: Coin Sound
 - [ ] Pro: Chest Sound
+- [ ] Pro: Design Level
 - [ ] Pro: Lava Tile
 - [ ] Pro: Door
 - [ ] Update: Model Shadows
@@ -44,8 +42,10 @@ kanban-plugin: board
 ## Chubbs
 
 - [ ] Dbg: When enemy catches player, animation spasms
-- [ ] Pro: Design Level
+- [ ] Pro: Settings Menu
+- [ ] Pro: Controls Menu
 - [ ] Pro: Pause Menu
+- [ ] Pro: Victory Menu
 
 
 ## Noots
