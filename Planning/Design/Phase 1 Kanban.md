@@ -10,17 +10,14 @@ kanban-plugin: board
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Remove Top Down
 - [ ] Pro: Projectile Logic
-- [ ] Pro: Death Anim
-- [ ] Pro: Idle Frames
 - [ ] Pro: Fireball
 - [ ] Pro: Death Sound
-- [ ] Pro: Menu Sound
 - [ ] Pro: Coin Sound
+- [ ] Pro: Menu Sound
 - [ ] Pro: Design Level
-- [ ] Pro: Lava Tile
-- [ ] Pro: Door
 - [ ] Update: Model Shadows
 - [ ] Update: Enemy 1+ 2 w/Shadows
+- [ ] Art: Add New Tile Maps
 
 
 ## Minci
@@ -35,16 +32,12 @@ kanban-plugin: board
 
 ## Brad
 
-- [ ] Pro: Chest
-- [ ] Pro: Chest Sound
 
 
 ## Chubbs
 
 - [ ] Dbg: When enemy catches player, animation spasms
-- [ ] Pro: Settings Menu
 - [ ] Pro: Controls Menu
-- [ ] Pro: Pause Menu
 - [ ] Pro: Victory Menu
 
 
@@ -64,6 +57,12 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Pro: Death Anim
+- [ ] Pro: Idle Frames
+- [ ] Pro: Settings Menu
+- [ ] Pro: Pause Menu
+- [ ] Pro: Chest Sound
+- [ ] Pro: Chest
 - [ ] Pro: Sound Menu
 - [ ] Pro:  Start Menu
 - [ ] Pro: White Flash On Damage
