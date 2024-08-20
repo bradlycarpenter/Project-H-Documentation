@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] Pro: Projectile Logic
 - [ ] Pro: Fireball
 - [ ] Pro: Death Sound
-- [ ] Pro: Coin Sound
 - [ ] Pro: Menu Sound
 - [ ] Pro: Design Level
 - [ ] Update: Model Shadows
@@ -43,20 +42,21 @@ kanban-plugin: board
 
 ## Noots
 
-- [ ] Pro: Coin
-- [ ] Pro: Coin Counter
 
 
 ## Review
 
 - [ ] Snd: Death Sound
 - [ ] Snd: Menu Sounds
-- [ ] Snd: Coin
 - [ ] Snd: Chest
+- [ ] Pro: Coin
+- [ ] Pro: Coin Counter
+- [ ] Pro: Coin Sound
 
 
 ## Done
 
+- [ ] Snd: Coin
 - [ ] Pro: Death Anim
 - [ ] Pro: Idle Frames
 - [ ] Pro: Settings Menu
