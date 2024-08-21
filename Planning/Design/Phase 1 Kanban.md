@@ -9,8 +9,6 @@ kanban-plugin: board
 - [ ] Snd: Victory
 - [ ] Pro: AI Behaviour
 - [ ] Pro: Remove Top Down
-- [ ] Pro: Projectile Logic
-- [ ] Pro: Fireball
 - [ ] Pro: Death Sound
 - [ ] Pro: Menu Sound
 - [ ] Pro: Design Level
@@ -42,6 +40,8 @@ kanban-plugin: board
 
 ## Noots
 
+- [ ] Pro: Projectile Logic
+- [ ] Pro: Fireball
 
 
 ## Review
