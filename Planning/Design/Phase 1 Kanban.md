@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] Pro: Death Sound
 - [ ] Pro: Menu Sound
 - [ ] Pro: Design Level
-- [ ] Update: Model Shadows
 - [ ] Update: Enemy 1+ 2 w/Shadows
 
 
@@ -91,6 +90,7 @@ kanban-plugin: board
 	Assigned: Noots
 - [ ] Snd: Player Movement
 - [ ] Org: Cleanup Files, Filenames and Folders
+- [ ] Update: Model Shadows
 
 
 ***
