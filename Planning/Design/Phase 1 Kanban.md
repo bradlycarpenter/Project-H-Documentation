@@ -39,8 +39,6 @@ kanban-plugin: board
 
 ## Noots
 
-- [ ] Pro: Projectile Logic
-- [ ] Pro: Fireball
 
 
 ## Review
@@ -55,6 +53,8 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Pro: Projectile Logic
+- [ ] Pro: Fireball
 - [ ] Snd: Coin
 - [ ] Pro: Death Anim
 - [ ] Pro: Idle Frames
