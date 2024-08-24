@@ -14,7 +14,6 @@ kanban-plugin: board
 - [ ] Pro: Design Level
 - [ ] Update: Model Shadows
 - [ ] Update: Enemy 1+ 2 w/Shadows
-- [ ] Art: Add New Tile Maps
 
 
 ## Minci
@@ -29,6 +28,7 @@ kanban-plugin: board
 
 ## Brad
 
+- [ ] Art: Add New Tile Maps
 
 
 ## Chubbs
