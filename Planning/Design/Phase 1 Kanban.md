@@ -34,7 +34,6 @@ kanban-plugin: board
 
 - [ ] Dbg: When enemy catches player, animation spasms
 - [ ] Pro: Controls Menu
-- [ ] Pro: Victory Menu
 
 
 ## Noots
@@ -46,6 +45,7 @@ kanban-plugin: board
 - [ ] Snd: Death Sound
 - [ ] Snd: Menu Sounds
 - [ ] Snd: Chest
+- [ ] Pro: Victory Menu
 - [ ] Pro: Coin
 - [ ] Pro: Coin Counter
 - [ ] Pro: Coin Sound
