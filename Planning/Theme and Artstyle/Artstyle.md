@@ -2,8 +2,8 @@ Adventure Style:
 
 1. Wizard of Legend
 
-![](Wizard%20of%20Legend.jpg)
+![](Planning/Theme%20and%20Artstyle/Pictures/Wizard%20of%20Legend.jpg)
 
 2. Hyperlight Drifter
 
-![[Hyperlight Drifter.png]]
+![[Planning/Theme and Artstyle/Pictures/Hyperlight Drifter.png]]
