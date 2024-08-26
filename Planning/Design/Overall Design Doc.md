@@ -6,6 +6,6 @@ Character Based / Class / Weapon
 
 Isometric
 
-[[Phase 1]]
-[[Phase 2]]
-[[Phase 3]]
+[Phase 1](Phase%201.md)
+[Phase 2](Phase%202.md)
+[Phase 3](Phase%203.md)
