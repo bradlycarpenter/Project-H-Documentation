@@ -5,7 +5,7 @@
 .obsidian/workspace/*
 
 # Exclude plugins
-.obsidian/plugins/*
+
 
 # Exclude consultant specific files "personal"
 05*-*Personal/
