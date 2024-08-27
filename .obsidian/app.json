@@ -1,5 +1,6 @@
 {
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./Pictures"
+  "attachmentFolderPath": "./Pictures",
+  "newFileLocation": "current"
 }
