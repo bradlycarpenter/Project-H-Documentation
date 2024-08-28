@@ -6,55 +6,65 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Snd: Victory
-- [ ] Pro: AI Behaviour
-- [ ] Pro: Remove Top Down
-- [ ] Pro: Death Sound
-- [ ] Pro: Menu Sound
-- [ ] Pro: Design Level
-- [ ] Update: Enemy 1+ 2 w/Shadows
+- [ ] Pro: Death Sound + Logic
+- [ ] Pro: Boss Melee Attack
+- [ ] Pro: Boss Logic (+Drop Coin)
+- [ ] Pro: Lava Damage
+- [ ] Pro: Chest Logic
+- [ ] Pro: Level Composition
+- [ ] Debug
 
 
 ## Minci
 
-- [ ] Org: Style Doc
+- [ ] Scrum Mommy
 
 
 ## Berti
 
-- [ ] Snd: Music Score
+- [ ] Art: Fix Spritesheet
 
 
 ## Brad
 
-- [ ] Art: Add New Tile Maps
+- [ ] Pro: Design Level
+- [ ] Art: Add New Tile Maps (Walls)
+- [ ] Snd: Music Score
 
 
 ## Chubbs
 
-- [ ] Dbg: When enemy catches player, animation spasms
-- [ ] Pro: Controls Menu
+- [ ] Pro: Menu Sound
+- [ ] Pro: Shorten Victory
 
 
 ## Noots
 
+- [ ] Pro: Enemy Melee Attack
 
 
 ## Review
 
+- [ ] Pro: Controls Menu
 - [ ] Snd: Death Sound
-- [ ] Snd: Menu Sounds
-- [ ] Snd: Chest
-- [ ] Pro: Victory Menu
-- [ ] Pro: Coin
-- [ ] Pro: Coin Counter
-- [ ] Pro: Coin Sound
 
 
 ## Done
 
+- [ ] Snd: Chest
+- [ ] Snd: Menu Sounds
+- [ ] Update: Enemy 1+ 2 w/Shadows
+- [ ] Pro: Remove Top Down
+- [ ] Pro: AI Behaviour
+- [ ] Dbg: When enemy catches player, animation spasms
 - [ ] Pro: Projectile Logic
+- [ ] Org: Style Doc
+- [ ] Pro: Victory Menu
 - [ ] Pro: Fireball
+- [ ] Pro: Coin Sound
+- [ ] Pro: Coin Counter
+- [ ] Pro: Coin
+- [ ] Snd: Victory
 - [ ] Snd: Coin
 - [ ] Pro: Death Anim
 - [ ] Pro: Idle Frames
