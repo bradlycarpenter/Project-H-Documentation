@@ -27,8 +27,8 @@ kanban-plugin: board
 
 ## Brad
 
-- [ ] Pro: Design Level
 - [ ] Art: Add New Tile Maps (Walls)
+- [ ] Pro: Design Level
 - [ ] Snd: Music Score
 
 
