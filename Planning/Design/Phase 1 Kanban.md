@@ -34,7 +34,6 @@ kanban-plugin: board
 
 ## Chubbs
 
-- [ ] Pro: Menu Sound
 - [ ] Pro: Shorten Victory
 
 
@@ -45,6 +44,7 @@ kanban-plugin: board
 
 ## Review
 
+- [ ] Pro: Menu Sound
 - [ ] Pro: Controls Menu
 - [ ] Snd: Death Sound
 
