@@ -6,9 +6,6 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] Pro: Death Sound + Logic
-- [ ] Pro: Boss Melee Attack
-- [ ] Pro: Boss Logic (+Drop Coin)
 - [ ] Pro: Lava Damage
 - [ ] Pro: Chest Logic
 - [ ] Pro: Level Composition
@@ -38,21 +35,24 @@ kanban-plugin: board
 
 ## Noots
 
-- [ ] Pro: Enemy Melee Attack
+- [ ] Pro: Boss Logic (+Drop Coin)
+- [ ] Pro: Death Sound + Logic
 
 
 ## Review
 
-- [ ] Pro: Shorten Victory
-- [ ] Pro: Menu Sound
-- [ ] Pro: Controls Menu
+- [ ] Pro: Enemy Melee Attack
+- [ ] Pro: Boss Melee Attack
 - [ ] Snd: Death Sound
 
 
 ## Done
 
 - [ ] Snd: Chest
+- [ ] Pro: Shorten Victory
 - [ ] Snd: Menu Sounds
+- [ ] Pro: Controls Menu
+- [ ] Pro: Menu Sound
 - [ ] Update: Enemy 1+ 2 w/Shadows
 - [ ] Pro: Remove Top Down
 - [ ] Pro: AI Behaviour
