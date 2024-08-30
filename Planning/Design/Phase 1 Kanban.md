@@ -7,7 +7,6 @@ kanban-plugin: board
 ## To-do
 
 - [ ] Pro: Lava Damage
-- [ ] Pro: Chest Logic
 - [ ] Pro: Level Composition
 - [ ] Debug
 
@@ -31,6 +30,7 @@ kanban-plugin: board
 
 ## Chubbs
 
+- [ ] Pro: Chest Logic
 
 
 ## Noots
